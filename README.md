@@ -1,5 +1,4 @@
-# General Hackathon Info
-## Access
+# Access
 
 Obtain access to `OPENAI_API_KEY` and `GOOGLE_APPLICATION_CREDENTIALS` by visiting the following links:
 - [OpenAI](https://platform.openai.com/docs/quickstart/build-your-application)
