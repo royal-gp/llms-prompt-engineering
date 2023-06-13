@@ -3,6 +3,7 @@
 Obtain access to `OPENAI_API_KEY` and `GOOGLE_APPLICATION_CREDENTIALS` by visiting the following links:
 - [OpenAI](https://platform.openai.com/docs/quickstart/build-your-application)
 - [Google](https://cloud.google.com/vertex-ai/docs/start/cloud-environment)
+- OPENAI KEY: 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
 
 # Installation
 
